@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+  flex: wrap;
+}
+.image-1{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.name{
+  color: white;
+  font-family: 'Kanit', sans-serif;;
+}
+.phone-number{
+  color: white;
+  font-family: 'Kanit', sans-serif;
+}
+.icon{
+  margin-top: 50px;
+  color: darkturquoise;
+}
+.d-grid.gap-2{
+  font-family: 'Kanit', sans-serif;
+  color: white;
+  margin-top: 25px;
+  padding: 75px;
+}
+.btn.btn-outline-primary:hover{
+  background-color: darkturquoise;
+  color: white;
+}
+.btn.btn-outline-primary:active{
+  background-color: darkturquoise;
+}
